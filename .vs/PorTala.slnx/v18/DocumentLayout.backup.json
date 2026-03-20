@@ -1,0 +1,462 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|c:\\users\\jeremy\\source\\repos\\portala\\portala\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|solutionrelative:portala\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|c:\\users\\jeremy\\source\\repos\\portala\\portala\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|solutionrelative:portala\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|c:\\users\\jeremy\\source\\repos\\portala\\portala\\pages\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|solutionrelative:portala\\pages\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|c:\\users\\jeremy\\source\\repos\\portala\\portala\\pages\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|solutionrelative:portala\\pages\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|c:\\users\\jeremy\\source\\repos\\portala\\portala\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|solutionrelative:portala\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|c:\\users\\jeremy\\source\\repos\\portala\\portala\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|solutionrelative:portala\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|c:\\users\\jeremy\\source\\repos\\portala\\portala\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|solutionrelative:portala\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|c:\\users\\jeremy\\source\\repos\\portala\\portala\\pages\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|solutionrelative:portala\\pages\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|c:\\users\\jeremy\\source\\repos\\portala\\portala\\pages\\dashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|solutionrelative:portala\\pages\\dashboard.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|c:\\users\\jeremy\\source\\repos\\portala\\portala\\models\\documents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|solutionrelative:portala\\models\\documents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|c:\\users\\jeremy\\source\\repos\\portala\\portala\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|solutionrelative:portala\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|c:\\users\\jeremy\\source\\repos\\portala\\portala\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|solutionrelative:portala\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|c:\\users\\jeremy\\source\\repos\\portala\\portala\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|solutionrelative:portala\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|c:\\users\\jeremy\\source\\repos\\portala\\portala\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|solutionrelative:portala\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|c:\\users\\jeremy\\source\\repos\\portala\\portala\\pages\\sellingkit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|solutionrelative:portala\\pages\\sellingkit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|c:\\users\\jeremy\\source\\repos\\portala\\portala\\pages\\sellingkit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|solutionrelative:portala\\pages\\sellingkit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|c:\\users\\jeremy\\source\\repos\\portala\\portala\\pages\\links.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|solutionrelative:portala\\pages\\links.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|c:\\users\\jeremy\\source\\repos\\portala\\portala\\pages\\links.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|solutionrelative:portala\\pages\\links.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|c:\\users\\jeremy\\source\\repos\\portala\\portala\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|solutionrelative:portala\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|c:\\users\\jeremy\\source\\repos\\portala\\portala\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|solutionrelative:portala\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|c:\\users\\jeremy\\source\\repos\\portala\\portala\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|solutionrelative:portala\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|c:\\users\\jeremy\\source\\repos\\portala\\portala\\models\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|solutionrelative:portala\\models\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|c:\\users\\jeremy\\source\\repos\\portala\\portala\\models\\navigationmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|solutionrelative:portala\\models\\navigationmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|c:\\users\\jeremy\\source\\repos\\portala\\portala\\models\\link.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|solutionrelative:portala\\models\\link.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|c:\\users\\jeremy\\source\\repos\\portala\\portala\\data\\portalacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|solutionrelative:portala\\data\\portalacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|c:\\users\\jeremy\\source\\repos\\portala\\portala\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{765FC1BE-B67F-448B-B9F9-5F15333126E1}|PorTala\\PorTala.csproj|solutionrelative:portala\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Pages\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "PorTala\\Pages\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Pages\\Logout.cshtml.cs",
+              "RelativeToolTip": "PorTala\\Pages\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T09:04:59.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Pages\\Logout.cshtml",
+              "RelativeDocumentMoniker": "PorTala\\Pages\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Pages\\Logout.cshtml",
+              "RelativeToolTip": "PorTala\\Pages\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-19T16:01:32.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "PorTala\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "PorTala\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-17T17:25:14.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "bootstrap-grid.css.map",
+              "DocumentMoniker": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+              "RelativeDocumentMoniker": "PorTala\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+              "ToolTip": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+              "RelativeToolTip": "PorTala\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAADcqQEAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-17T17:19:55.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SellingKit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Pages\\SellingKit.cshtml.cs",
+              "RelativeDocumentMoniker": "PorTala\\Pages\\SellingKit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Pages\\SellingKit.cshtml.cs",
+              "RelativeToolTip": "PorTala\\Pages\\SellingKit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T17:00:53.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SellingKit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Pages\\SellingKit.cshtml",
+              "RelativeDocumentMoniker": "PorTala\\Pages\\SellingKit.cshtml",
+              "ToolTip": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Pages\\SellingKit.cshtml",
+              "RelativeToolTip": "PorTala\\Pages\\SellingKit.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T17:00:38.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Links.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Pages\\Links.cshtml.cs",
+              "RelativeDocumentMoniker": "PorTala\\Pages\\Links.cshtml.cs",
+              "ToolTip": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Pages\\Links.cshtml.cs",
+              "RelativeToolTip": "PorTala\\Pages\\Links.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T16:27:59.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Links.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Pages\\Links.cshtml",
+              "RelativeDocumentMoniker": "PorTala\\Pages\\Links.cshtml",
+              "ToolTip": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Pages\\Links.cshtml",
+              "RelativeToolTip": "PorTala\\Pages\\Links.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T16:26:29.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NavigationMenu.cs",
+              "DocumentMoniker": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Models\\NavigationMenu.cs",
+              "RelativeDocumentMoniker": "PorTala\\Models\\NavigationMenu.cs",
+              "ToolTip": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Models\\NavigationMenu.cs",
+              "RelativeToolTip": "PorTala\\Models\\NavigationMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T15:50:18.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "PorTala\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Pages\\Error.cshtml",
+              "RelativeToolTip": "PorTala\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T15:35:03.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dashboard.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Pages\\Dashboard.cshtml.cs",
+              "RelativeDocumentMoniker": "PorTala\\Pages\\Dashboard.cshtml.cs",
+              "ToolTip": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Pages\\Dashboard.cshtml.cs",
+              "RelativeToolTip": "PorTala\\Pages\\Dashboard.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T08:18:10.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Pages\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "PorTala\\Pages\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Pages\\Dashboard.cshtml",
+              "RelativeToolTip": "PorTala\\Pages\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T08:17:47.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PorTala\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PorTala\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T08:15:55.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "PorTala\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Pages\\Index.cshtml",
+              "RelativeToolTip": "PorTala\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T07:50:05.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PorTala\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PorTala\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-16T07:17:03.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Documents.cs",
+              "DocumentMoniker": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Models\\Documents.cs",
+              "RelativeDocumentMoniker": "PorTala\\Models\\Documents.cs",
+              "ToolTip": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Models\\Documents.cs",
+              "RelativeToolTip": "PorTala\\Models\\Documents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T06:37:52.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Link.cs",
+              "DocumentMoniker": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Models\\Link.cs",
+              "RelativeDocumentMoniker": "PorTala\\Models\\Link.cs",
+              "ToolTip": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Models\\Link.cs",
+              "RelativeToolTip": "PorTala\\Models\\Link.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T06:34:00.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "PorTala\\Models\\Sale.cs",
+              "ToolTip": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Models\\Sale.cs",
+              "RelativeToolTip": "PorTala\\Models\\Sale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T06:33:05.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "PorTala\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Models\\Project.cs",
+              "RelativeToolTip": "PorTala\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T06:32:45.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Agent.cs",
+              "DocumentMoniker": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Models\\Agent.cs",
+              "RelativeDocumentMoniker": "PorTala\\Models\\Agent.cs",
+              "ToolTip": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Models\\Agent.cs",
+              "RelativeToolTip": "PorTala\\Models\\Agent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T06:32:17.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "PorTala\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "PorTala\\Pages\\Login.cshtml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T05:28:45.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "PorTala\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Pages\\Login.cshtml",
+              "RelativeToolTip": "PorTala\\Pages\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T05:28:35.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Models\\User.cs",
+              "RelativeDocumentMoniker": "PorTala\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Models\\User.cs",
+              "RelativeToolTip": "PorTala\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T05:10:46.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Program.cs",
+              "RelativeDocumentMoniker": "PorTala\\Program.cs",
+              "ToolTip": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Program.cs",
+              "RelativeToolTip": "PorTala\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T05:06:45.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PorTalaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Data\\PorTalaContext.cs",
+              "RelativeDocumentMoniker": "PorTala\\Data\\PorTalaContext.cs",
+              "ToolTip": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\Data\\PorTalaContext.cs",
+              "RelativeToolTip": "PorTala\\Data\\PorTalaContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T05:04:43.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\appsettings.json",
+              "RelativeDocumentMoniker": "PorTala\\appsettings.json",
+              "ToolTip": "C:\\Users\\Jeremy\\source\\repos\\PorTala\\PorTala\\appsettings.json",
+              "RelativeToolTip": "PorTala\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-16T05:03:40.014Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
