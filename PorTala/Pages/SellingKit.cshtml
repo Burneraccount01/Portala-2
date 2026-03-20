@@ -1,0 +1,122 @@
+﻿@page
+@model PorTala.Pages.SellingKitModel
+
+@if (Model.Type == "tripping")
+{
+    <form>
+        <div class="container mt-4">
+            <div class="card shadow p-4">
+                <h2 class="text-center mb-4">Tripping Vehicle Request</h2>
+                <div class="row mb-3">
+                    <div class="doc-header mb-4">
+                        <p><strong>Requesting Sales Manager:</strong> SUSANA CADAG</p>
+                        <p><strong>Branch:</strong> TALA</p>
+                        <p><strong>Focus:</strong> Laguna-Batangas</p>
+                        <p><strong>BSM Contact:</strong> 09178147166</p>
+                    </div>
+                    <hr />
+                </div>
+                <div class="mb-3">
+                    <label>Focus:</label>
+                    <input class="form-control" />
+                </div>
+                <hr />
+                <div class="row mb-3">
+                    <div class="col-md-6">
+                        <label>PS / Agent:</label>
+                        <input class="form-control" />
+                    </div>
+                    <div class="col-md-6">
+                        <label>PS Contact #:</label>
+                        <input class="form-control" />
+                    </div>
+                </div>
+                <hr />
+                <h5 class="mb-3">Destinations</h5>
+                <div class="row mb-2">
+                    <div class="col-md-4">
+                        <input class="form-control" placeholder="Destination 1" />
+                    </div>
+                    <div class="col-md-4">
+                        <input class="form-control" placeholder="Destination 2" />
+                    </div>
+                    <div class="col-md-4">
+                        <input class="form-control" placeholder="Destination 3" />
+                    </div>
+                </div>
+                <hr />
+                <div class="row mb-3">
+                    <div class="col-md-4">
+                        <label>Date:</label>
+                        <input type="date" class="form-control" />
+                    </div>
+                    <div class="col-md-4">
+                        <label>Pick Up Time:</label>
+                        <input type="time" class="form-control" />
+                    </div>
+                    <div class="col-md-2">
+                        <label>&nbsp;</label>
+                        <select class="form-control">
+                            <option>AM</option>
+                            <option>PM</option>
+                        </select>
+                    </div>
+                    <div class="col-md-2">
+                        <label># Passengers:</label>
+                        <input type="number" class="form-control" />
+                    </div>
+                </div>
+                <div class="mb-3">
+                    <label>Pick Up Point:</label>
+                    <select class="form-control">
+                        <option>Sales Office</option>
+                        <option>SM Aura</option>
+                        <option>SM Makati</option>
+                        <option>Festival Mall, Alabang</option>
+                        <option>SM Calamba</option>
+                    </select>
+                </div>
+                <hr />
+                <div class="row mb-3">
+                    <div class="col-md-6">
+                        <label>Client Name:</label>
+                        <input class="form-control" />
+                    </div>
+                    <div class="col-md-6">
+                        <label>Client Contact #:</label>
+                        <input class="form-control" />
+                    </div>
+                </div>
+                <div class="text-center mt-4">
+                    <button type="button" class="btn btn-primary ms-2" onclick="downloadPDF()">
+                        Download PDF
+                    </button>
+                </div>
+            </div>
+        </div>
+    </form>
+    <div id="printSection" class="print-only">
+        <h1>Tripping Vehicle Request</h1>
+        <p>Requesting Sales Manager: SUSANA CADAG</p>
+        <p>BRANCH: TALA</p>
+        <p>FOCUS: Laguna-Batangas</p>
+        <p>BSM CONTACT: 09178147166</p>
+        <br />
+        <p>PS / AGENT:</p>
+        <p>PS CONTACT#:</p>
+        <p>DESTINATION 1:</p>
+        <p>DESTINATION 2:</p>
+        <p>DESTINATION 3:</p>
+        <br />
+        <p>DATE:</p>
+        <p>PICK UP TIME:</p>
+        <p>PICK UP POINT:</p>
+        <p>#PASSENGER/s:</p>
+        <p>Client's Name:</p>
+        <p>Client's Contact#:</p>
+    </div>
+}
+else
+{
+    <p>Select a Selling Kit option.</p>
+}

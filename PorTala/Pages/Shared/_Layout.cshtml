@@ -1,0 +1,145 @@
+﻿@inject PorTala.Data.PorTalaContext _context
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - PorTala</title>
+    <script type="importmap"></script>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/PorTala.styles.css" asp-append-version="true" />
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
+    <script>
+            (function () {
+                const theme = localStorage.getItem("theme");
+                if (theme === "dark") {
+                    document.documentElement.classList.add("dark-mode");
+                }
+            })();
+    </script>
+</head>
+<body>
+    <header>
+        @{
+            var isLoginPage = Context.Request.Path.Value.Contains("/Login");
+        }
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="navbar-collapse collapse d-sm-inline-flex w-100 align-items-center">
+                @if (!isLoginPage){
+                    <div class="me-auto">
+                        <form method="post" asp-page="/Logout" class="d-inline ms-2">
+                            <button type="submit" class="btn btn-sm btn-outline-danger">
+                                Logout
+                            </button>
+                        </form>
+                    </div>
+                    <div class="mx-auto d-flex align-items-center">
+                        <a class="navbar-brand fw-bold me-3" asp-page="/Dashboard">
+                            TEAM TALA
+                        </a>
+                        <ul class="navbar-nav d-flex flex-row">
+                            @{
+                                var menus = _context.NavigationMenu
+                                    .Where(m => m.IsVisible)
+                                    .OrderBy(m => m.DisplayOrder)
+                                    .ToList();
+                                var parentMenus = menus.Where(m => m.ParentMenuID == null);
+                            }
+                            @foreach (var parent in parentMenus)
+                            {
+                                var children = menus.Where(m => m.ParentMenuID == parent.MenuID);
+                                if (children.Any())
+                                {
+                                    <li class="nav-item dropdown mx-1">
+                                        <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">
+                                            @parent.Title
+                                        </a>
+                                        <ul class="dropdown-menu">
+                                            @foreach (var child in children)
+                                            {
+                                                <li>
+                                                    <a class="dropdown-item" href="@child.MenuURL" target="_blank">
+                                                        @child.Title
+                                                    </a>
+                                                </li>
+                                            }
+                                        </ul>
+                                    </li>
+                                }
+                                else
+                                {
+                                    <li class="nav-item mx-1">
+                                        <a class="nav-link" href="@parent.MenuURL">
+                                            @parent.Title
+                                        </a>
+                                    </li>
+                                }
+                            }
+                        </ul>
+
+                    </div>
+                }
+                <div class="ms-auto">
+                    <button onclick="toggleDarkMode()" id="themeBtn"
+                            class="btn btn-sm btn-outline-dark me-2">
+                        🌙
+                    </button>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2026 - PorTala - <a asp-area="" asp-page="/Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+    <script>
+            function updateIcon() {
+                const btn = document.getElementById("themeBtn");
+                if (document.documentElement.classList.contains("dark-mode")) {
+                    btn.innerText = "☀️";
+                } else {
+                    btn.innerText = "🌙";
+                }
+            }
+            function toggleDarkMode() {
+                document.documentElement.classList.toggle("dark-mode");
+                if (document.documentElement.classList.contains("dark-mode")) {
+                    localStorage.setItem("theme", "dark");
+                } else {
+                    localStorage.setItem("theme", "light");
+                }
+                updateIcon();
+            }
+            window.onload = updateIcon;
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+    <script>
+        function downloadPDF() {
+        const element = document.getElementById("printSection");
+        element.style.display = "block";
+        const opt = {
+        margin: [15, 20, 15, 20],
+        filename: 'Tripping_Request.pdf',
+        image: { type: 'jpeg', quality: 0.98 },
+        html2canvas: { scale: 2, useCORS: true },
+        jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' }
+        };
+        html2pdf().set(opt).from(element).save().then(() => {
+        element.style.display = "none";
+        });
+        }
+    </script>
+</body>
+</html>
+
